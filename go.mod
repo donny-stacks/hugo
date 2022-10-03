@@ -3,10 +3,9 @@ module github.com/gohugoio/hugo
 require (
 	github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69
 	github.com/PuerkitoBio/purell v1.1.1
-	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/alecthomas/chroma v0.9.4
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.41.3
+	github.com/aws/aws-sdk-go v1.44.68
 	github.com/bep/debounce v1.2.0
 	github.com/bep/gitmap v1.1.2
 	github.com/bep/godartsass v0.12.0
@@ -19,7 +18,7 @@ require (
 	github.com/evanw/esbuild v0.13.8
 	github.com/fortytw2/leaktest v1.3.0
 	github.com/frankban/quicktest v1.13.1
-	github.com/fsnotify/fsnotify v1.5.1
+	github.com/fsnotify/fsnotify v1.5.4
 	github.com/getkin/kin-openapi v0.79.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gobuffalo/flect v0.2.3
@@ -28,7 +27,7 @@ require (
 	github.com/gohugoio/locales v0.14.0
 	github.com/gohugoio/localescompressed v0.14.0
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.8
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
@@ -37,7 +36,7 @@ require (
 	github.com/mattn/go-isatty v0.0.14
 	github.com/miekg/mmark v1.3.6
 	github.com/mitchellh/hashstructure v1.1.0
-	github.com/mitchellh/mapstructure v1.4.2
+	github.com/mitchellh/mapstructure v1.4.3
 	github.com/muesli/smartcrop v0.3.0
 	github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 // indirect
 	github.com/niklasfasching/go-org v1.5.0
@@ -58,13 +57,12 @@ require (
 	github.com/tdewolff/minify/v2 v2.9.22
 	github.com/yuin/goldmark v1.4.1
 	github.com/yuin/goldmark-highlighting v0.0.0-20200307114337-60d527fdb691
-	gocloud.dev v0.20.0
+	gocloud.dev v0.27.0
 	golang.org/x/image v0.0.0-20210220032944-ac19c3e999fb
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/net v0.0.0-20220802222814-0bcc04d9c69b
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	golang.org/x/text v0.3.7
-	google.golang.org/api v0.51.0
-	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
+	google.golang.org/api v0.91.0
 	gopkg.in/yaml.v2 v2.4.0
 )
 
