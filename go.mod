@@ -18,7 +18,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/evanw/esbuild v0.13.8
 	github.com/fortytw2/leaktest v1.3.0
-	github.com/frankban/quicktest v1.13.1
+	github.com/frankban/quicktest v1.14.4
 	github.com/fsnotify/fsnotify v1.5.1
 	github.com/getkin/kin-openapi v0.79.0
 	github.com/ghodss/yaml v1.0.0
@@ -28,7 +28,7 @@ require (
 	github.com/gohugoio/locales v0.14.0
 	github.com/gohugoio/localescompressed v0.14.0
 	github.com/gohugoio/testmodBuilder/mods v0.0.0-20190520184928-c56af20f2e95
-	github.com/google/go-cmp v0.5.6
+	github.com/google/go-cmp v0.5.9
 	github.com/gorilla/websocket v1.4.2
 	github.com/jdkato/prose v1.2.1
 	github.com/kylelemons/godebug v1.1.0
@@ -44,7 +44,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/pelletier/go-toml/v2 v2.0.0-beta.3.0.20210727221244-fa0796069526
 	github.com/pkg/errors v0.9.1
-	github.com/rogpeppe/go-internal v1.8.0
+	github.com/rogpeppe/go-internal v1.9.0
 	github.com/russross/blackfriday v1.5.3-0.20200218234912-41c5fccfd6f6
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/sanity-io/litter v1.5.1
